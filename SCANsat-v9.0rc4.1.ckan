@@ -3,6 +3,7 @@
   "identifier": "SCANsat",
   "x_real_kref": "#/ckan/kerbalstuff/249",
   "x_bad_vref": "#/ckan/ksp-avc",
+  "ksp_version": "0.90",
   "author": "DMagic",
   "name": "SCANsat",
   "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!",
