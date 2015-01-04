@@ -2,7 +2,7 @@
   "spec_version": 1,
   "identifier": "RemoteTech",
   "name": "RemoteTech",
-  "abstract": "RemoteTech allows you to cons-- blah - test - jenins - test truct vast relay networks of communication satellites and remotely controlled unmanned vehicles. Your unmanned vessels require an uplink to a command station to be controlled. This adds a new layer of difficulty that compensates for the lack of live crew members.",
+  "abstract": "RemoteTech allows you to construct vast relay networks of communication satellites and remotely controlled unmanned vehicles. Your unmanned vessels require an uplink to a command station to be controlled. This adds a new layer of difficulty that compensates for the lack of live crew members.",
   "author": "Remote Technologies Group",
   "license": "restricted",
   "resources": {
