@@ -6,6 +6,9 @@
     "author": "sarbian",
     "license": "GPL-3.0",
     "x_ci_version_base": "2.4.2.0",
+    "provides": [
+        "MechJeb2"
+    ],
     "conflicts": [
         {
             "name": "MechJeb2"
