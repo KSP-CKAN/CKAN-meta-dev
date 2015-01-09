@@ -8,6 +8,9 @@
     "name": "SCANsat - DEV RELEASE",
     "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!",
     "license": "restricted",
+    "provides": [
+        "SCANsat"
+    ],
     "conflicts": [
         {
             "name": "SCANsat"
