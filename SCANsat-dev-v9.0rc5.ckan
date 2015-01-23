@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SCANsat-dev",
+    "x_real_kref": "#/ckan/kerbalstuff/249",
+    "x_bad_vref": "#/ckan/ksp-avc",
+    "ksp_version": "0.90",
+    "author": "DMagic",
+    "name": "SCANsat - DEV RELEASE",
+    "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!",
+    "license": "restricted",
+    "provides": [
+        "SCANsat"
+    ],
+    "conflicts": [
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "install": [
+        {
+            "find": "SCANsat",
+            "install_to": "GameData"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/S-C-A-N/SCANsat"
+    },
+    "version": "v9.0rc5",
+    "download": "https://github.com/S-C-A-N/SCANsat/releases/download/v9.0rc5/SCANsat_v9rc5.zip",
+    "x_generated_by": "netkan",
+    "download_size": 1931604
+}
