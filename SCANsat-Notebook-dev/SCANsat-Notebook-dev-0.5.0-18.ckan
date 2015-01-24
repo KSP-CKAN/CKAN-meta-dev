@@ -1,6 +1,7 @@
 {
     "spec_version": 1,
     "identifier": "SCANsat-Notebook-dev",
+    "x_broken_vref": "#/ckan/ksp-avc",
     "name": "SCANsat Notebook - DEV RELEASE",
     "abstract": "A Notebook for your SCANsat scans",
     "author": "hakan",
