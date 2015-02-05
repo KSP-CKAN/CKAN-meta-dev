@@ -1,6 +1,10 @@
 {
     "spec_version": 1,
     "identifier": "CaptainsLog-dev",
+    "$vref": [
+        "#/ckan/ksp-avc",
+        "#/ckan/ksp-avc"
+    ],
     "$second_vref": "#/ckan/kerbalstuff/561",
     "name": "Captain's Log - DEV RELEASE",
     "abstract": "A Notebook for your SCANsat scans",
@@ -26,7 +30,5 @@
     "version": "0.1.0-40",
     "download": "https://ksp.sarbian.com/jenkins/job/Hakan-CaptainsLog/lastStableBuild/artifact/CaptainsLog-0.1.0-40.zip",
     "x_generated_by": "netkan",
-    "download_size": 25119,
-    "ksp_version_min": "0.90.0",
-    "ksp_version_max": "0.90.0"
+    "download_size": 25119
 }
