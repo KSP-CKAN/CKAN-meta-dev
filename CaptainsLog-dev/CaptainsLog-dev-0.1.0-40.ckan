@@ -1,7 +1,6 @@
 {
     "spec_version": 1,
     "identifier": "CaptainsLog-dev",
-    "$second_vref": "#/ckan/kerbalstuff/561",
     "name": "Captain's Log - DEV RELEASE",
     "abstract": "A Notebook for your SCANsat scans",
     "author": "hakan",
