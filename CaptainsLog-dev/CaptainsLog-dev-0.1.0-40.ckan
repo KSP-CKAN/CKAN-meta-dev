@@ -2,9 +2,6 @@
     "spec_version": 1,
     "identifier": "CaptainsLog-dev",
     "name": "Captain's Log - DEV RELEASE",
-    "abstract": "A Notebook for your SCANsat scans",
-    "author": "hakan",
-    "license": "Apache-2.0",
     "x_ci_version_base": "0.1.0",
     "conflicts": [
         {
@@ -19,13 +16,17 @@
     ],
     "resources": {
         "x_ci": "https://ksp.sarbian.com/jenkins/job/Hakan-CaptainsLog",
-        "homepage": "http://forum.kerbalspaceprogram.com/threads/DO-NOT-KNOW-YET",
-        "repository": "https://github.com/entchen/CaptainsLog"
+        "x_homepage": "http://forum.kerbalspaceprogram.com/threads/DO-NOT-KNOW-YET",
+        "repository": "https://github.com/entchen/CaptainsLog",
+        "kerbalstuff": "https://kerbalstuff.com/mod/561/Captain's%20Log"
     },
     "version": "0.1.0-40",
     "download": "https://ksp.sarbian.com/jenkins/job/Hakan-CaptainsLog/lastStableBuild/artifact/CaptainsLog-0.1.0-40.zip",
     "x_generated_by": "netkan",
     "download_size": 25119,
     "ksp_version_min": "0.90.0",
-    "ksp_version_max": "0.90.0"
+    "ksp_version_max": "0.90.0",
+    "license": "Apache-2.0",
+    "abstract": "The Captain's Log shows you the Anomalies you have discovered",
+    "author": "hakan"
 }
