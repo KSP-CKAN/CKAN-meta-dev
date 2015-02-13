@@ -1,12 +1,6 @@
 {
     "spec_version": "v1.4",
     "identifier": "SCANsat-dev",
-    "x_real_kref": "#/ckan/kerbalstuff/249",
-    "x_bad_vref": "#/ckan/ksp-avc",
-    "ksp_version": "0.90",
-    "author": "DMagic",
-    "name": "SCANsat - DEV RELEASE",
-    "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!",
     "license": "restricted",
     "provides": [
         "SCANsat"
@@ -33,10 +27,17 @@
         }
     ],
     "resources": {
-        "repository": "https://github.com/S-C-A-N/SCANsat"
+        "repository": "https://github.com/S-C-A-N/SCANsat",
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/80369",
+        "kerbalstuff": "https://kerbalstuff.com/mod/249/SCANsat"
     },
+    "author": "DMagic1",
     "version": "v9.0rc5",
     "download": "https://github.com/S-C-A-N/SCANsat/releases/download/v9.0rc5/SCANsat_v9rc5.zip",
     "x_generated_by": "netkan",
-    "download_size": 1931604
+    "download_size": 1931604,
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "0.90.0",
+    "name": "SCANsat",
+    "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!"
 }
