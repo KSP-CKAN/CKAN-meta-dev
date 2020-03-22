@@ -1,7 +1,5 @@
-Welcome to the CKAN metadata repository.
+## This repository is retired
 
-If you wish to add support for a new module,
-[there's a guide for that](https://github.com/KSP-CKAN/CKAN/wiki/Adding-a-mod-to-the-CKAN).
+These files contain metadata for pre-releases of mods, but they have not been updated in 5+ years and are no longer useful.
 
-If you're wondering what the CKAN is, start with
-[this readme](https://github.com/KSP-CKAN/CKAN/blob/master/README.md).
+See [KSP-CKAN/NetKAN-Infra#155](https://github.com/KSP-CKAN/NetKAN-Infra/issues/155) for details.
